@@ -15,9 +15,9 @@ I love clean, well readble code and actively working with the **net/http** libra
 
 ### Profile statistic
 
-![My Github statistic](https://github-readme-stats.vercel.app/api?username=MiranDoDo&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MiranDoDo&layout=compact&theme=tokyonight&hide_border=true)
+![My Github statistic](https://github-readme-stats.vercel.app/api?username=AsyncClyud&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AsyncClyud&layout=compact&theme=tokyonight&hide_border=true)
 
 ### Contacts
-- XMPP: shisha.caterpillar@yax.im
-- Email: shisha.caterpillar@atomicmail.io
+- XMPP: async_clyud@yax.im
+- Email: asyncclyud.contact@atomicmail.io
