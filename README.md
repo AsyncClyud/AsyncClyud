@@ -35,5 +35,5 @@ Frontend
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=AsyncClyud&theme=tokyonight&hide_border=true" /> </p>
 
 📫 Связаться со мной
-<p> <a href="async_clyud@yax.im"><img src="https://img.shields.io/badge/XMPP-004A77?style=for-the-badge&logo=xmpp&logoColor=white" /></a> <a href="mailto:USERNAME@example.com">
-<a href="asyncclyud.contact@atomicmail.io"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> </p>
+<p> <a href="mailto:async_clyud@yax.im"><img src="https://img.shields.io/badge/XMPP-004A77?style=for-the-badge&logo=xmpp&logoColor=white" /></a>
+<a href="mailto:asyncclyud.contact@atomicmail.io"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> </p>
